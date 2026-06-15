@@ -2,7 +2,7 @@
 *{
   box-sizing: border-box;
   padding: 0;
-  margin: 0;
+  margin: 10px;
 }
 
 p{
@@ -17,4 +17,10 @@ p{
 
 .class-odd3{
   font-size: 24px;
+}
+
+#id-even4{
+  background-color: #00ff00;
+  font-size: 24px;
+  font-weight: 700;
 }
