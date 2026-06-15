@@ -6,6 +6,15 @@
 }
 
 .first-button{
-  background-color: rgb(243, 208, 11);
+  background-color: rgb(240, 213, 59);
   color: #ffffff;
+}
+
+.second-button{
+  background-color: #ffff00;
+}
+
+.fonts{
+  font-family: 'Helvetica', 'Times New Roman', sans-serif;
+  font-size: 28px;
 }
